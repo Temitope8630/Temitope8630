@@ -69,7 +69,7 @@
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-| 14-Filesystem and Permission Settings | Exploring Filesystems in Linux and File Permissions | [view Repo](#) |
+| 14-Filesystem and Permission Settings | Exploring Filesystems in Linux and File Permissions | [view Repo](https://github.com/Temitope8630/Navigating-the-Linux-Filesystem-and-Permission-Settings) |
 | 15-Windows Internals Deep Dive | Analyzing ctfmon.exe & Explorer.exe with Sysinternals | [View Repo](https://github.com/Temitope8630/Windows-Internals-Deep-Dive) |
 ---
 
