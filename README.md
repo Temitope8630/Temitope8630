@@ -71,7 +71,7 @@
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 | 14-Filesystem and Permission Settings | Exploring Filesystems in Linux and File Permissions | [view Repo](https://github.com/Temitope8630/Navigating-the-Linux-Filesystem-and-Permission-Settings) |
 | 15-Windows Internals Deep Dive | Analyzing ctfmon.exe & Explorer.exe with Sysinternals | [View Repo](https://github.com/Temitope8630/Windows-Internals-Deep-Dive) |
-| 16-UNVEILING HIDDEN WEB DIRECTORIES | DIRECTORY LISTING VULNERABILITIES | [view Repo](https://github.com/Temitope8630/Unveiling-Hidden-Web-Directories-using-pentest-tools)
+| 16-UNVEILING HIDDEN WEB DIRECTORIES | DIRECTORY LISTING VULNERABILITIES | [view Repo](https://github.com/Temitope8630/Unveiling-Hidden-Web-Directories-using-pentest-tools.)
 ---
 
 ## Contact
