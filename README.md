@@ -66,7 +66,7 @@
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Temitope8630/Mittre-threat-hunt) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Temitope8630/phishing-email-forensics) |
-| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/Temitope8630/linux-permission-audit) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/Temitope8630/malware-analysis) |
 | 14-Filesystem and Permission Settings | Exploring Filesystems in Linux and File Permissions | [view Repo](https://github.com/Temitope8630/Navigating-the-Linux-Filesystem-and-Permission-Settings) |
