@@ -73,6 +73,7 @@
 | 15-Windows Internals Deep Dive | Analyzing ctfmon.exe & Explorer.exe with Sysinternals | [View Repo](https://github.com/Temitope8630/Windows-Internals-Deep-Dive) |
 | 16-UNVEILING HIDDEN WEB DIRECTORIES | DIRECTORY LISTING VULNERABILITIES | [view Repo](https://github.com/Temitope8630/Unveiling-Hidden-Web-Directories-using-pentest-tools.)
 | 17- Threat Hunting APT-TTP Mapping & Control Alignment| Industry-Focused-Threat-Hunting-APT-TTP-Mapping-Control-Alignment | [View Repo](https://github.com/Temitope8630/Industry-Focused-Threat-Hunting-APT-TTP-Mapping-Control-Alignment)
+| 18-Automating Email Analysis and SIEM Integration | Python-based automation, used to process, analyze, and monitor email messages as they arrive in a live mailbox | [View Repo]
 ---
 
 ## Contact
