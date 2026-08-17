@@ -58,7 +58,7 @@ Hello! I’m *Toheeb Adabanija*, a results-driven Cybersecurity Analyst with two
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Temitope8630/Building-a-multi-VM-cybersecurity-lab) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
-| 03-AWS-IAM-Cloud Security | Establishing a secure AWS environment with strong identity governance, access control, logging, monitoring, and alerting mechanisms. | [View Repo](#) |
+| 03-AWS-IAM-Cloud-Security | Establishing a secure AWS environment with strong identity governance, access control, logging, monitoring, and alerting mechanisms. | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Temitope8630/Security_Policy_Dev) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Temitope8630/vulnerability-assessment) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
