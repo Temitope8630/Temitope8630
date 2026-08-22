@@ -74,7 +74,7 @@ Hello! I’m *Toheeb Adabanija*, a results-driven Cybersecurity Analyst with two
 | 16-UNVEILING HIDDEN WEB DIRECTORIES | DIRECTORY LISTING VULNERABILITIES | [view Repo](https://github.com/Temitope8630/Unveiling-Hidden-Web-Directories-using-pentest-tools.)
 | 17-Threat Hunting APT-TTP Mapping & Control Alignment| Industry-Focused-Threat-Hunting-APT-TTP-Mapping-Control-Alignment | [View Repo](https://github.com/Temitope8630/Industry-Focused-Threat-Hunting-APT-TTP-Mapping-Control-Alignment)
 | 18-Automating Email Analysis and SIEM Integration | Python-based automation, used to process, analyze, and monitor email messages as they arrive in a live mailbox | [View Repo](https://github.com/Temitope8630/Automating-Email-Analysis-and-SIEM-Integration/blob/main/Automating_Email_Analysis_and_SIEM_Integration_Report.pdf)
-| 19-CodeAlpha-Phishing Awareness Training | User Awareness and Education Assessment | [View Report]()
+| 19-CodeAlpha-Phishing Awareness Training | User Awareness and Education Assessment | [View Report](https://github.com/Temitope8630/codealpha_tasks)
 ---
 
 ## Contact
